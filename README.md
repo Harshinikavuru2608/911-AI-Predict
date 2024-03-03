@@ -1,6 +1,6 @@
-##911 AI Predict
-#The 911 Artificial Intelligence Platform for Recognition of Emergencies through DIrected ClassificaTion
-##Abstract
+# 911 AI Predict
+## The 911 Artificial Intelligence Platform for Recognition of Emergencies through DIrected ClassificaTion
+## Abstract
 Modern technology is transforming emergency response processes with the 911 Artificial Intelligence (AI) Platform for Recognition of Emergencies through Directed Classification (911-AI-PREDICT) system.
 By utilizing the capabilities of real-time AI-driven decision assistance, this system seeks to enhance the early and accurate detection of life-threatening medical situations reported through 911 calls. 
 A real-time transcriber and a real-time classifier make up the system, which works in tandem to extract crucial information from emergency calls and identify potentially fatal conditions. 
